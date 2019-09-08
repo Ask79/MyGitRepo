@@ -1,2 +1,2 @@
 # MyGitRepo
-My Practice Git Repo
+## My Practice Git Repo
